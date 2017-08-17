@@ -23,3 +23,6 @@ h2 {
   font-size: 21px;
   color: Gray;
 }
+#copyright {
+  text-align: right;
+}
